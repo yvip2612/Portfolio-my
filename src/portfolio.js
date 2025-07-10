@@ -596,6 +596,10 @@ const contactPageData = {
     title: "Phone Number and Zalo",
     subtitle: "0354135008",
   },
+  emailSection: {
+    title: "Email",
+    subtitle: "nguyencaoy.2000hcm@gmail.com",
+  },
 };
 
 export {

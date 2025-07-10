@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Nguyen Cao Y",
   nickname: "0354135008",
   subTitle:
-    "Với tư duy thiết kế và kỹ năng lập trình, tôi xây dựng các hệ thống có tính ứng dụng cao và tạo giá trị lâu dài.",
+    "Tôi kết hợp tư duy thiết kế nghệ thuật với kỹ năng lập trình để tạo ra sản phẩm vừa đẹp mắt vừa có tính ứng dụng cao.",
   resumeLink:
     "https://drive.google.com/drive/folders/1jNHW2x46u4z7KfAcsgkkdp-WrJPdcUWF?usp=sharing",
   portfolio_repository: "https://github.com/yvip2612/Portfolio-my",

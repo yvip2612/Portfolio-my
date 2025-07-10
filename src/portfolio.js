@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Nguyen Cao Y Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    " Người luôn đam mê phát triển mạnh để làm việc từ cuối đến cuối các sản phẩm phát triển các hệ thống xã hội và kỹ thuật bền vững và có thể mở rộng để tạo ra tác động.",
   og: {
     title: "Nguyen Cao Y Portfolio",
     type: "website",
@@ -25,9 +25,11 @@ const greeting = {
   subTitle:
     "Với tư duy thiết kế và kỹ năng lập trình, tôi xây dựng các hệ thống có tính ứng dụng cao và tạo giá trị lâu dài.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/drive/folders/1jNHW2x46u4z7KfAcsgkkdp-WrJPdcUWF?usp=sharing",
+  portfolio_repository: "https://github.com/yvip2612/Portfolio-my",
+  githubProfile: "https://github.com/yvip2612",
+  driverProfile:
+    "https://drive.google.com/drive/folders/1htwF2THagFGCS0KiEpqFbgwE--0TLMaw?usp=drive_link",
 };
 
 const socialMediaLinks = [
@@ -35,7 +37,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/yvip2612/caoy2612.git",
+    link: "https://github.com/yvip2612",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -463,7 +465,8 @@ const experience = {
         {
           title: "DESIGNER",
           company: "FREELANCER",
-          company_url: "",
+          company_url:
+            "https://drive.google.com/drive/folders/1htwF2THagFGCS0KiEpqFbgwE--0TLMaw?usp=drive_link",
           logo_path: "C.png",
           duration: "06/2019 - Present",
           location: "TP.HCM",
@@ -525,7 +528,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "Tôi là Fullstack Developer kiêm UI/UX Designer, chuyên tạo ra sản phẩm web hiện đại, tối giản và chuyên nghiệp – từ thiết kế bằng Canva đến triển khai ứng dụng trên nền tảng số.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -565,31 +568,33 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "avatar.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "Tôi có mặt trên hầu hết các nền tảng mạng xã hội và sẽ phản hồi trong vòng 24 giờ 🎯 Chuyên về: React, Android, Cloud, Open Source Development, và thiết kế Poster,Banner ,Logo.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+      "Tôi thích ghi lại một số kinh nghiệm của tôi trong hành trình nghề nghiệp chuyên nghiệp cũng như một số chia sẻ kiến ​​thức kỹ thuật.",
+    link:
+      "https://drive.google.com/drive/folders/1jNHW2x46u4z7KfAcsgkkdp-WrJPdcUWF?usp=sharing",
+    avatar_image_path: "avatar.png",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle:
+      "8/1,Ấp Mỹ Hòa 4, Xã Xuân Thới Đông, Huyện Hóc Môn, Thành phố Hồ Chí Minh, Việt Nam",
+    locality: "Ấp Mỹ Hòa 4, Xã Xuân Thới Đông, Huyện Hóc Môn",
+    country: "Việt Nam",
+    region: "Thành phồ Hồ Chí Minh",
+    postalCode: "	71715",
+    streetAddress: "Xuyên Á",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://maps.app.goo.gl/EocQA2QJRq4Wscn17",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone Number and Zalo",
+    subtitle: "0354135008",
   },
 };
 

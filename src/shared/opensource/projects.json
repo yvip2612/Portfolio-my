@@ -1,47 +1,59 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "P001",
+      "name": "Web quản lý nhà trọ",
+      "createdAt": "2021-11-15T00:00:00Z",
+      "url": "https://drive.google.com/drive/folders/1gYZCLfaOrGcup04IkddPL52e73dfEXry?usp=sharing",
+      "description": "Thiết kế và lập trình frontend website quản lý phòng trọ bằng Laravel, hỗ trợ đặt phòng, quản lý người thuê.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "PHP",
+          "iconifyClass": "logos-php"
         },
         {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "name": "Laravel",
+          "iconifyClass": "simple-icons:laravel"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "P002",
+      "name": "Web bán đồng hồ online",
+      "createdAt": "2022-03-15T00:00:00Z",
+      "url": "https://drive.google.com/drive/folders/1t4pY2lNUy9UryHnfNYMfLnJoNrFmq1g4?usp=sharing",
+      "description": "Xây dựng website thương mại điện tử bán đồng hồ, tích hợp giỏ hàng và quản lý sản phẩm với Laravel.",
       "isFork": false,
       "languages": [
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "simple-icons:laravel"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "P003",
+      "name": "Website outsource cho khách hàng",
+      "createdAt": "2022-05-10T00:00:00Z",
+      "url": "#",
+      "description": "Thiết kế và lập trình website cho doanh nghiệp theo yêu cầu, thực hiện dưới vai trò freelancer tại VIETJAPAN Partner.",
       "isFork": false,
       "languages": [
         {
@@ -53,70 +65,30 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "PHP",
+          "iconifyClass": "logos-php"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
+      "id": "P004",
+      "name": "Hệ thống kiểm thử phần mềm tự động",
+      "createdAt": "2023-06-01T00:00:00Z",
+      "url": "https://gitlab.com/nguyencaoy/seemt-api-automationtest",
+      "description": "Xây dựng hệ thống tự động kiểm thử phần mềm tại OVERATE VN TECH, giúp giảm thời gian kiểm tra và phát hiện lỗi sớm.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "Java",
+          "iconifyClass": "logos-java"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "SQL",
+          "iconifyClass": "logos-sql-server"
         },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
-      "isFork": false,
-      "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }

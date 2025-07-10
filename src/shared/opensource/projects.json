@@ -2,32 +2,50 @@
   "data": [
     {
       "id": "P001",
-      "name": "Web quản lý nhà trọ",
-      "createdAt": "2021-11-15T00:00:00Z",
-      "url": "https://drive.google.com/drive/folders/1gYZCLfaOrGcup04IkddPL52e73dfEXry?usp=sharing",
-      "description": "Thiết kế và lập trình frontend website quản lý phòng trọ bằng Laravel, hỗ trợ đặt phòng, quản lý người thuê.",
+      "name": "Thiết kế Logo cho cửa hàng bán bắp nướng - Nghĩa Ba Kèo ",
+      "createdAt": "2023-06-02T00:00:00Z",
+      "url": "https://drive.google.com/drive/folders/1okQgtZINvm8qU8mDEQxf104Nra-P2Jve",
+      "description": "Thiết kế logo và bộ nhận diện thương hiệu cho cửa hàng bán bắp nướng tại TP.HCM, sử dụng công cụ Adobe Illustrator.",
       "isFork": false,
       "languages": [
         {
-          "name": "PHP",
-          "iconifyClass": "logos-php"
+          "name": "canva",
+          "iconifyClass": "logos-canva"
         },
         {
-          "name": "Laravel",
-          "iconifyClass": "simple-icons:laravel"
+          "name": "Photoshop",
+          "iconifyClass": "logos-photoshop"
         },
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "Ai illustrator",
+          "iconifyClass": "logos-ai-illustrator"
         }
       ]
     },
     {
       "id": "P002",
+      "name": "Thiết kế poster sự kiện và infographic - Nhà hát Bông Sen",
+      "createdAt": "2023-06-05T00:00:00Z",
+      "url": "https://drive.google.com/drive/folders/1k4g5b7f8j9d8f8g7h6j5k4l3m2n1o0p1?usp=sharing",
+      "description": "Thiết kế postes sự kiện và infographic cho Nhà hát Bông Sen, sử dụng công cụ Adobe Photoshop và Illustrator.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "canva",
+          "iconifyClass": "logos-canva"
+        },
+        {
+          "name": "Photoshop",
+          "iconifyClass": "logos-photoshop"
+        },
+        {
+          "name": "Ai illustrator",
+          "iconifyClass": "logos-ai-illustrator"
+        }
+      ]
+    },
+    {
+      "id": "P003",
       "name": "Web bán đồng hồ online",
       "createdAt": "2022-03-15T00:00:00Z",
       "url": "https://drive.google.com/drive/folders/1t4pY2lNUy9UryHnfNYMfLnJoNrFmq1g4?usp=sharing",
@@ -49,7 +67,7 @@
       ]
     },
     {
-      "id": "P003",
+      "id": "P004",
       "name": "Website outsource cho khách hàng",
       "createdAt": "2022-05-10T00:00:00Z",
       "url": "#",
@@ -71,7 +89,7 @@
       ]
     },
     {
-      "id": "P004",
+      "id": "P005",
       "name": "Hệ thống kiểm thử phần mềm tự động",
       "createdAt": "2023-06-01T00:00:00Z",
       "url": "https://gitlab.com/nguyencaoy/seemt-api-automationtest",
@@ -89,6 +107,32 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        }
+      ]
+    },
+    {
+      "id": "P006",
+      "name": "Web quản lý nhà trọ",
+      "createdAt": "2021-11-15T00:00:00Z",
+      "url": "https://drive.google.com/drive/folders/1gYZCLfaOrGcup04IkddPL52e73dfEXry?usp=sharing",
+      "description": "Thiết kế và lập trình frontend website quản lý phòng trọ bằng Laravel, hỗ trợ đặt phòng, quản lý người thuê.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "PHP",
+          "iconifyClass": "logos-php"
+        },
+        {
+          "name": "Laravel",
+          "iconifyClass": "simple-icons:laravel"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
         }
       ]
     }

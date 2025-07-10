@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Nguyen Cao Y Portfolio",
     type: "website",
-    url: "https://your-portfolio-domain.com",
+    url: "https://nguyencaoy-infomation.netlify.app/",
   },
 };
 
@@ -400,7 +400,7 @@ const experience = {
           company: "Vietjapanpartner.",
           company_url: "https://www.facebook.com/vieclamitjp",
           logo_path: "Vietjapanpartner.png",
-          duration: "05/2022 - 06/2022",
+          duration: "05/2022 - 06/2023",
           location: "Công viên Phần mềm Quang Trung, Q12, TP.HCM",
           description:
             "Thiết kế banner, poster, logo cho khách hàng và sự kiện của công ty theo yêu cầu.",
@@ -411,7 +411,7 @@ const experience = {
           company: "Vietjapanpartner",
           company_url: "https://www.facebook.com/vieclamitjp",
           logo_path: "Vietjapanpartner.png",
-          duration: "05/2022 - 06/2022",
+          duration: "05/2022 - 06/2023",
           location: "Công viên Phần mềm Quang Trung, Q12, TP.HCM",
           description:
             " Lập trình website outsource theo yêu cầu của khách hàng. Thiết kế giao diện người dùng và trải nghiệm người dùng cho các ứng dụng web và di động. Tích hợp backend và kiểm thử hệ thống.",
@@ -422,7 +422,7 @@ const experience = {
           company: "𝐓𝐄𝐂𝐇𝐑𝐄𝐒 - Giải pháp ERP quản trị & vận hành chuỗi F&B",
           company_url: "https://techres.vn/",
           logo_path: "techres.png",
-          duration: "07/2022 - 06/2024",
+          duration: "07/2023 - 05/2025",
           location: "86 Nguyễn Cửu Vân, P.17, Q.Bình Thạnh, TP.HCM",
           description:
             "Kiểm thử chất lượng phần mềm, Lập trình hệ thống kiểm thử tự động, Phát hiện và báo cáo lỗi phần mềm. Thực hiện kiểm thử chức năng, hiệu suất và bảo mật của ứng dụng.",
@@ -433,7 +433,7 @@ const experience = {
           company: "𝐓𝐄𝐂𝐇𝐑𝐄𝐒 - Giải pháp ERP quản trị & vận hành chuỗi F&B",
           company_url: "https://techres.vn/",
           logo_path: "techres.png",
-          duration: "07/2022 - 06/2024",
+          duration: "07/2023 - 05/2025",
           location: "86 Nguyễn Cửu Vân, P.17, Q.Bình Thạnh, TP.HCM",
           description:
             "Hỗ trợ khách hàng trong việc sử dụng sản phẩm và dịch vụ của công ty. Giải quyết các vấn đề kỹ thuật liên quan đến phần mềm và hệ thống. Cung cấp hướng dẫn và đào tạo cho khách hàng về cách sử dụng sản phẩm.",
